@@ -1,6 +1,6 @@
-# CTF-Tools
-This is the first version of useful CTF tools cheat sheets. I'm planning to update them with new useful tools.
-Thanks to shr for a good advice to add the links for tools. Here are the links to the tools from cheat sheets:
+# CTF-Tools<br>
+This is the first version of useful CTF tools cheat sheets. I'm planning to update them with new useful tools.<br>
+Thanks to share for a good advice to add the links for tools. Here are the links to the tools from cheat sheets:<br>
 
 #Reverse Engineering:
 GDB - http://www.gnu.org/software/gdb/download/<br>
