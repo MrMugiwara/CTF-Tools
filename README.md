@@ -37,7 +37,7 @@ netcat - http://netcat.sourceforge.net/<br>
 nmap - http://nmap.org/download.html<br>
 
 # Steganography:<br>
-OpenStego - http://www.openstego.info/<br>
+OpenStego - https://www.openstego.com  &  https://sourceforge.net/projects/openstego/ <br>
 OutGuess - http://www.outguess.org/download.php<br>
 SilentEye - http://www.silenteye.org/download.html<br>
 Steghide - http://steghide.sourceforge.net/download.php<br>
