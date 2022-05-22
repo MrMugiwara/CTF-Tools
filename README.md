@@ -74,7 +74,9 @@ hashpump - https://github.com/bwall/HashPump<br>
 Sage - http://www.sagemath.org/<br>
 John the Ripper - http://www.openwall.com/john/<br>
 xortool - https://github.com/hellman/xortool<br>
+basecrack - https://github.com/mufeedvh/basecrack
 # Online tools:<br>
+http://basecrack-web.me/
 http://www.crypo.com/<br>
 http://www.cryptool-online.org/<br>
 http://rumkin.com/tools/cipher/<br>
